@@ -1,0 +1,8 @@
+﻿{
+  "version": "0.1.0",
+  "url": "https://github.com/ssdunkss-arch/laundryorder-updates/releases/download/v0.1.0-clean/LaundryOrder-v0.1.0-clean.zip",
+  "sha256": "7eb5c4d54e2196d00b807cb219cc3b5f7d43b060471b7eccf58107a5d8f92b42",
+  "minSupportedVersion": "0.1.0",
+  "migrationRequired": false,
+  "notes": "LaundryOrder clean beta package 0.1.0"
+}
